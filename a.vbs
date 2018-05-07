@@ -20,6 +20,6 @@ WScript.Sleep 150
 
 WshShell.sendkeys "testing.jpg" 
 WScript.Sleep 150 
-
+ 
 WshShell.sendkeys "% (s)" 
 WScript.Sleep 150 
