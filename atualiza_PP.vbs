@@ -20,7 +20,7 @@ oShell.Run "%windir%\System32\RUNDLL32.EXE user32.dll,UpdatePerUserSystemParamet
 
 Next 
 
-Dim k
+Dim k 
 
 For k = 1 To 5 step 1 
  WScript.sleep 900
