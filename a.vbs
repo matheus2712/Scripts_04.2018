@@ -8,6 +8,10 @@ WScript.Sleep 150
 'Sys.Desktop.Picture.SaveToFile "C:\screenshot.png"
 
 
+
+
+tes
+
  
 WshShell.AppActivate "Untitled - Paint" 
 WScript.Sleep 150 
