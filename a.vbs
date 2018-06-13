@@ -16,7 +16,7 @@ tes
 WshShell.AppActivate "Untitled - Paint" 
 WScript.Sleep 150 
 
-WshShell.sendkeys "^ (v)" 
+WshShell.sendkeys "^(v)" 
 WScript.Sleep 150 
 
 WshShell.sendkeys "^ (s)" 
