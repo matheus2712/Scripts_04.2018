@@ -1,0 +1,8 @@
+psexec \\d0000011033 -u matheus.camilo -p jwm@1995 -i -d
+ -s c:\windows\regedit.exe
+
+psexec \\d0000011033 -u matheus.camilo -p jwm@1995 -i -d
+ -s \\server\shared\Skype8.exe
+
+psexec \\d0000011033 -u matheus.camilo -p jwm@1995 -i -d
+ -s \\c:\program files\microsoft\skype for desktop\skype.exe
