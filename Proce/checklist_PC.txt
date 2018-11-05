@@ -1,0 +1,36 @@
+Instalação SO - Checklist
+configuracao 
+
+atualizar( W.update)
+Alterar nome
+iniciar no dominio
+ativar SO
+**************************
+Instalar
+
+aDOBE
+Office
+Office - desmapear**
+Java
+ESL [1,2,8,8.1,10,11,14,doc-e] + DLL OCX + fontes, isl
+Bancos*
+navegador - chrome
+pdf - Cute
+Sascar*
+skype*
+
+*******************************
+
+2 Configuração de usuario
+
+Alterar imagem da tela de bloqueio
+
+ 2.1 Outlook
+   Ativar conta
+	add catalogo de endereço
+	alterar nome
+	add assinatura	
+	alterar tempo de recebimento
+
+logar Skype
+	
